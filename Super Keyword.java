@@ -30,4 +30,4 @@ public class Main
     	Student obj = new Student();
     	obj.print();
     }
-}
+} 
